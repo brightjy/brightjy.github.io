@@ -17,6 +17,7 @@ description:
 baseurl: ""
 url: "https://brightjy.github.io/"
 cover: "/assets/header_image.jpg"
+logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
