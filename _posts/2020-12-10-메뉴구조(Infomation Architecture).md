@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Iterator"
+title: "메뉴구조도(Information Architecture"
 date: '2020-12-10 09:53:00'
 author: BBarkji
 categories: 웹기획
