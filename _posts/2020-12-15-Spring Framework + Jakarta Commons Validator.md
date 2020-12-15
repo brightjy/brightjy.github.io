@@ -127,16 +127,19 @@ validator.xml은 validation rule과 validation할 Form을 매핑한다.
 form name과 field property의 name-rule은 Server-side와 Client-side인 경우에 따라 다르다.
 
 
-_** Server-side validation의 경우는, **_
+_**Server-side validation의 경우는,**_
+
 form name 과 field property는 validation할 폼 클래스의 이름, 필드와 각각 매핑된다. (camel case)
 e.g. 폼 클래스가 DepartmentForm 이면, departmentForm
 
 
-_** Client-side의 경우는, **_
+_**Client-side의 경우는,**_
+
 form name은 JSP에서 설정한 <validator:javascript formName="employee" .../> 태그의 formName과 매핑되고, field property는 각각의 폼 필드의 이름과 일치하면 된다.
 
 
-_** 따라서, Server-side, Client-side 둘 다 수행하려면, **_
+_**따라서, Server-side, Client-side 둘 다 수행하려면,**_
+
 JSP의 <validator:javascript formName="employee" .../> 태그의 formName은 폼 클래스의 이름이 되어야 하고, JSP의 폼필드들은 폼 클래스의 필드와 일치해야 한다. 
 
 
