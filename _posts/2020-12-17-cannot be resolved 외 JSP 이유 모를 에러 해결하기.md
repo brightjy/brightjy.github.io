@@ -32,8 +32,23 @@ Project > properties > Validation > JSP Syntax > Custom actions > TagExtraInfo~ 
 
 
 
-그 외 기타 등등 구글에서 검색한 글이 다 보라색이 되도록 찾고 있다. 해결되면 추가하것음...
+그 외 기타 등등 구글에서 검색한 글이 다 보라색이 되도록 찾고 있다. 해결되면 추가하것음...  
 
+
+
+**결국**...  
+  
+  
+사실 현재 운영 중인 코드라 실제 에러일리 만무하다. 이클립스 버그이기 때문에...  
+  
+### Validation 설정 변경 (2)  
+Project > properties > Validation > Daisable All > Clean Project  
+이러면 일단 다 사라진다.  
+그러고 나서 다시 들어가서 default 셋팅 해줌.  
+  
+  
+이로써 해결되었다. 하지만 정말 사람 맘 찝찝하게 만든다 이클립스 버그... 
+ 
 
 
 
