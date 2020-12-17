@@ -19,15 +19,15 @@ cover:  "/assets/instacode.png"
 **아래는 내가 해보았지만, 내 경우는 효과가 없었던 방법들이다.**
 
 
-* JRE 재설정  
+### JRE 재설정  
 Project > properties > Java Build Path > Libraries > 기존에 있던 JRE System Library 삭제 > Add Library > JRE System Library > Alternate JRE > 본인 버전에 맞는 jdk (e.g. jdk 1.8.0) 선택하여 추가
 
 
-* Project Facets 톰캣 서버 추가  
+### Project Facets 톰캣 서버 추가  
 Project > properties > Project Facets > Configuration : <custom> > Runtimes 탭 > 톰캣 서버 체크 
 
 
-* Validation 설정 변경  
+### Validation 설정 변경  
 Project > properties > Validation > JSP Syntax > Custom actions > TagExtraInfo~ Ignore로 변경 (물론 여기서 모든걸 ignore로 바꾸면 안뜨겠지만...)
 
 
