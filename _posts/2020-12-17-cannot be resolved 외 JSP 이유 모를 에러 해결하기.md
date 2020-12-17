@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cannot be resolved 외 JSP 이유 모를 에러 해결하기 (진행중)"
+title: "cannot be resolved 외 JSP 이유 모를 에러 해결하기"
 date: '2020-12-17 10:00:00'
 author: BBarkji
 categories: 에러
