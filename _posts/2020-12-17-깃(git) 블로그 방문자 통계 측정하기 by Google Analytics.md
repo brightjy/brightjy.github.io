@@ -23,7 +23,7 @@ cover:  "/assets/octoCat.PNG"
   
 ### Step 2. 계정 속성 설정하기  
 관리 > 속성설정 > 기본 URL 에 깃 블로그 주소를 넣는다. 
-![ga속성설정](./assets/ga.PNG)  
+![ga속성설정](/assets/ga.PNG)  
   
   
 ### Step 3. 깃 블로그 설정에 반영  
@@ -51,7 +51,7 @@ ga.html 안에는 관리 > 추적정보 > 추척코드 의 범용 사이트 태�
 
 ### Step 4. 잘 적용됐는지 애널리틱스 홈에서 확인한다.  
 제대로 적용되었다면, 내 깃 블로그에 들어간 후, 애널리틱스 홈 화면을 보면 분당 페이지 조회 수치가 올라간다.   
-![ga테스트](./assets/gaTest.PNG) 
+![ga테스트](/assets/gaTest.PNG) 
   
   
   
