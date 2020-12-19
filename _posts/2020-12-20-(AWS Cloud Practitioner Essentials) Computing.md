@@ -43,5 +43,9 @@ cover:  "/assets/instacode.png"
 1. Trade upfront expense for variable expense
 2. Stop spending money to run and maintain data centers
 3. Stop guessing capacity
+4. Benefit form massive economies of scale
+5. Increase speed and agility
+6. Go global in minutes
+
 
 
