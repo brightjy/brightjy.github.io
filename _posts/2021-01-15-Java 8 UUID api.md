@@ -1,6 +1,6 @@
 ---
 layout: post
-title: : "Java UUID api"
+title: : "Java 8 UUID api"
 date: '2021-01-15 10:00:00'
 author: BBarkji
 categories: Java
