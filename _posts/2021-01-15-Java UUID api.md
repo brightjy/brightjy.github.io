@@ -3,7 +3,7 @@ layout: post
 title: "Java UUID api"
 date: '2021-01-15 15:00:00'
 author: BBarkji
-categories: etc
+categories: java
 tags: java
 cover:  "/assets/instacode.png"
 ---
@@ -51,12 +51,12 @@ class UUID가 이 둘을 상속하므로, UUID api를 활용하면,
 <br/>
 <br/>
 * class UUID의 메소드      
-|Modifier and Type|Method|Description|
-|---|----|-----|
-|int|clockSequence()|The clock sequence value associated with this UUID.|
-|int|compareTo(UUID val)|Compares this UUID with the specified UUID.|
-|boolean|equals(Object obj)|Compares this object to the specified object.|
-|static UUID|fromString(String name)|Creates a UUID from the string standard representation as described in the toString() method.|
+| Modifier and Type | Method | Description |
+| --- | ---- | ----- |
+| int | clockSequence() | The clock sequence value associated with this UUID. |
+| int | compareTo(UUID val)| Compares this UUID with the specified UUID. |
+| boolean | equals(Object obj) | Compares this object to the specified object. |
+| static UUID | fromString(String name) | Creates a UUID from the string standard representation as described in the toString() method. |
 |long|getLeastSignificantBits()|Returns the least significant 64 bits of this UUID's 128 bit value.|
 |long|getMostSignificantBits()|Returns the most significant 64 bits of this UUID's 128 bit value.|
 |int|hashCode()|Returns a hash code for this UUID.|
