@@ -1,10 +1,10 @@
 ---
 layout: post
-title: : "Java 8 UUID api"
-date: '2021-01-15 10:00:00'
+title: "Java UUID api"
+date: '2021-01-15 15:00:00'
 author: BBarkji
-categories: java
-tags: 이클립스설
+categories: etc
+tags: java
 cover:  "/assets/instacode.png"
 ---
 
@@ -71,4 +71,4 @@ class UUID가 이 둘을 상속하므로, UUID api를 활용하면,
 <br/>
 <br/>
 * 또한 java.lang.Object 를 상속받아 아래 메소드도 쓸 수 있다.
-clone, finalize, getClass, notify, notifyAll, wait
+clone, finalize, getClass, notify, notifyAll, wait 
