@@ -3,7 +3,7 @@ layout: post
 title: : "Java 8 UUID api"
 date: '2021-01-15 10:00:00'
 author: BBarkji
-categories: Java
+categories: java
 tags: 이클립스설
 cover:  "/assets/instacode.png"
 ---
